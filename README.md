@@ -1,8 +1,5 @@
 # Welcome to GAU-AI
 
-[[ https://github.com/bioinfokushwaha/GAU-AI/blob/main/ProjectSummary_Figure.png]]
-
-
 ## GAU-AI: Genomic Ancestry and Understanding through Artificial Intelligence
 
 **Vision :** GAU-AI aims to democratize genomic breed identification and ancestry analysis by providing an accessible, transparent, and scalable platform for researchers, breeders, veterinarians, livestock owners, and policy makers. By combining genomics with artificial intelligence, GAU-AI contributes to sustainable livestock improvement and conservation of animal genetic resources.
